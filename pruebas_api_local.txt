@@ -1,0 +1,10 @@
+OK - Pagina web
+OK - Salud de API
+OK - Dos ejemplos con 30 valores
+OK - Prediccion ejemplo 1
+OK - Prediccion ejemplo 2
+OK - Rechaza 2 valores (422)
+OK - Rechaza texto (422)
+OK - Rechaza 31 valores (422)
+OK - Rechaza ausencia de valores (422)
+Resumen: 9 de 9 correctas
