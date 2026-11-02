@@ -47,8 +47,12 @@ Al reproducir los parametros de la Actividad 5 (C=0.1, semilla 42, division 80/2
 
 ## Estado de validacion
 
-La aplicacion y sus endpoints se probaron localmente en Python. El **build y la ejecucion dentro de Docker** deben verificarse en un equipo con Docker Desktop; no se adjunta evidencia ficticia de ello.
+La aplicación se construyó y ejecutó correctamente con Docker en GitHub Codespaces, utilizando el puerto 8080.
 
-## GitHub y nube
+Se realizaron pruebas de funcionamiento de la página web y de la API, obteniendo resultados correctos en los dos ejemplos de clasificación.
 
-Crea un repositorio nuevo, por ejemplo `Fase2-Docker-Cancer-Mama`, y sube el contenido de esta carpeta. En el manual adjunto estan los pasos para un despliegue opcional en Render mediante Docker.
+También se verificaron los endpoints /api/health y /docs.
+
+Las capturas de las pruebas se encuentran en la carpeta evidencias de este repositorio.
+
+La aplicación se ejecuta temporalmente en GitHub Codespaces y puede iniciarse nuevamente utilizando los comandos Docker indicados en este proyecto.
