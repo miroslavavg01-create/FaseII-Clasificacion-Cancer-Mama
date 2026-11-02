@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.973684,
+  "f1_macro": 0.971583,
+  "roc_auc": 0.995701,
+  "registros_entrenamiento": 455,
+  "registros_prueba": 114,
+  "parametros": "Regresion Logistica, C=0.1, class_weight=None, StandardScaler, random_state=42"
+}
