@@ -1,6 +1,6 @@
 # Fase II - Aplicacion de IA con Docker
 
-Proyecto basado en la **regresion logistica de la Actividad 5** para clasificar datos publicos del conjunto Wisconsin Breast Cancer Diagnostic. **Solo practica academica: no apto para diagnostico medico.**
+Proyecto basado en mi **regresion logistica de la Actividad 5** para clasificar datos publicos del conjunto Wisconsin Breast Cancer Diagnostic
 
 La pantalla web (`index.html`) llama a la API (`app.py`); la API utiliza el archivo `modelo.joblib` y devuelve una clasificacion. Incluimos dos ejemplos publicos del dataset para probar sin escribir 30 numeros.
 
